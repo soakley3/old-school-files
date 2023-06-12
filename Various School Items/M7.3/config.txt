@@ -1,0 +1,6 @@
+USER walmartgardner
+PASS 1057152140079
+PythonPath python
+scriptPath /Users/lucas/Projects/2019Fall/ITSC3112/M7.3/M7.3/tempImages
+scriptName textToImage.py
+calendarImageLocation/Users/lucas/Projects/2019Fall/ITSC3112/M7.3/M7.3/cal2.ppm

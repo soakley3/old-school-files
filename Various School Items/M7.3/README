@@ -1,0 +1,19 @@
+Calendar Project readme file.
+
+Fill out the config.txt file.
+
+Example information is provided.
+This requires Python PIL library to generate the text images.
+Please install python pillow, and use pillow to install PIL (python image library)
+
+PythonPath on Unix systems should be fine left as "python".
+It is used as the c++ system caller to run the python script.
+
+When the config files ask for directories, you can only provide absolute directories. 
+
+In the events.txt file,
+Months and Days are designated as such..
+month 0 = january.
+month 11 = december.
+
+day 0 is the first day of the month.

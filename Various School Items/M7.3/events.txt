@@ -1,0 +1,36 @@
+2020
+{
+MONTH 0
+0: New Years.
+1: Exercise.
+2: Pay bills.
+19: x.
+20: y.
+21: z.
+30: End of the month.
+}
+{
+MONTH 1
+14: Birthday Sally.
+27: Birthday Tom.
+}
+{
+MONTH 2
+23: Exam networking.
+}
+{
+MONTH 3
+0: Spring break.
+16: Adison birthday.
+}
+{
+MONTH 11
+23: Christmas eve.
+24: Christmas.
+25: Boxing day.
+25: Birthday.
+25: Big party.
+25: clean up part 1.
+26: clean up part 2.
+30: End of year.
+}
